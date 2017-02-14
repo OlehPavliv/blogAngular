@@ -1,0 +1,23 @@
+.modalSize{
+    width:350px;
+}
+p{
+    margin-bottom:0;
+}
+textarea{
+    width: 100%;
+    resize: none;
+}
+
+.top{
+    background:#69FFDC;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px; 
+    padding:5px 5px; 
+}
+.bottom{
+    background: #417AFF;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px; 
+    padding:6px 6px; 
+}
